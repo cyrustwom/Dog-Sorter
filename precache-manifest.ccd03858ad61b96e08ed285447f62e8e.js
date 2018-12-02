@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/Dog-Sorter/static/media/Bernard.8b1dd735.jpg"
   },
   {
-    "revision": "adebf2d7c6d92c0970fa",
-    "url": "/Dog-Sorter/static/css/main.613bc868.chunk.css"
+    "revision": "f4d87a0c1057c7c083d1",
+    "url": "/Dog-Sorter/static/css/main.956f320e.chunk.css"
   },
   {
     "revision": "d154b4e04d15091cd6b5",
@@ -56,8 +56,8 @@ self.__precacheManifest = [
     "url": "/Dog-Sorter/static/media/Newfoundland.7f83fc08.jpg"
   },
   {
-    "revision": "adebf2d7c6d92c0970fa",
-    "url": "/Dog-Sorter/static/js/main.adebf2d7.chunk.js"
+    "revision": "f4d87a0c1057c7c083d1",
+    "url": "/Dog-Sorter/static/js/main.f4d87a0c.chunk.js"
   },
   {
     "revision": "d391101a279de8066b17340f3fc438f3",
@@ -108,7 +108,7 @@ self.__precacheManifest = [
     "url": "/Dog-Sorter/static/media/Briard.5b4c2ab1.jpg"
   },
   {
-    "revision": "46a184c9b2e717bd11b458e9964e76b3",
+    "revision": "5fb9c40918a07746224257b2c297e1b1",
     "url": "/Dog-Sorter/index.html"
   }
 ];

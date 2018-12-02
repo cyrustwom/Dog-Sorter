@@ -1,7 +1,7 @@
 {
-  "main.css": "/Dog-Sorter/static/css/main.613bc868.chunk.css",
-  "main.js": "/Dog-Sorter/static/js/main.adebf2d7.chunk.js",
-  "main.js.map": "/Dog-Sorter/static/js/main.adebf2d7.chunk.js.map",
+  "main.css": "/Dog-Sorter/static/css/main.956f320e.chunk.css",
+  "main.js": "/Dog-Sorter/static/js/main.f4d87a0c.chunk.js",
+  "main.js.map": "/Dog-Sorter/static/js/main.f4d87a0c.chunk.js.map",
   "static/js/1.d154b4e0.chunk.js": "/Dog-Sorter/static/js/1.d154b4e0.chunk.js",
   "static/js/1.d154b4e0.chunk.js.map": "/Dog-Sorter/static/js/1.d154b4e0.chunk.js.map",
   "runtime~main.js": "/Dog-Sorter/static/js/runtime~main.3cd13fdb.js",
@@ -29,8 +29,8 @@
   "static/media/Border-Collie.jpg": "/Dog-Sorter/static/media/Border-Collie.c9e4e1bc.jpg",
   "static/media/Shetland.jpg": "/Dog-Sorter/static/media/Shetland.22af044f.jpg",
   "static/media/Briard.jpg": "/Dog-Sorter/static/media/Briard.5b4c2ab1.jpg",
-  "static/css/main.613bc868.chunk.css.map": "/Dog-Sorter/static/css/main.613bc868.chunk.css.map",
+  "static/css/main.956f320e.chunk.css.map": "/Dog-Sorter/static/css/main.956f320e.chunk.css.map",
   "index.html": "/Dog-Sorter/index.html",
-  "precache-manifest.721d7679d477635396058f988710382c.js": "/Dog-Sorter/precache-manifest.721d7679d477635396058f988710382c.js",
+  "precache-manifest.ccd03858ad61b96e08ed285447f62e8e.js": "/Dog-Sorter/precache-manifest.ccd03858ad61b96e08ed285447f62e8e.js",
   "service-worker.js": "/Dog-Sorter/service-worker.js"
 }
